@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 293" width="1200" height="293" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Research to design decisions</title>
+<desc id="d">Four themes from early research and the product decision each one led to.</desc>
+<rect width="1200" height="293" rx="14" fill="#0f172a"/>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">What early athlete conversations changed in the product</text>
+<rect x="45" y="84" width="255" height="149" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="61" y="114" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="61" dy="0">No structure</tspan></text>
+<line x1="61" y1="124" x2="284" y2="124" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="61" y="134" font-size="12.5" fill="#94a3b8" text-anchor="start" font-style="italic" xml:space="preserve"><tspan x="61" dy="0">Exercises on paper or scattered</tspan><tspan x="61" dy="17">notes</tspan></text>
+<text x="61" y="182" font-size="13.5" fill="#4ade80" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">Led to: guided recovery</tspan><tspan x="61" dy="17">workflows</tspan></text>
+<rect x="330" y="84" width="255" height="149" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="346" y="114" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="346" dy="0">Motivation fades</tspan></text>
+<line x1="346" y1="124" x2="569" y2="124" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="346" y="134" font-size="12.5" fill="#94a3b8" text-anchor="start" font-style="italic" xml:space="preserve"><tspan x="346" dy="0">Progress feels slow, routines</tspan><tspan x="346" dy="17">repeat</tspan></text>
+<text x="346" y="182" font-size="13.5" fill="#4ade80" text-anchor="start" xml:space="preserve"><tspan x="346" dy="0">Led to: progress tracking,</tspan><tspan x="346" dy="17">streaks, milestones</tspan></text>
+<rect x="615" y="84" width="255" height="149" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="631" y="114" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="631" dy="0">Pain changes daily</tspan></text>
+<line x1="631" y1="124" x2="854" y2="124" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="631" y="134" font-size="12.5" fill="#94a3b8" text-anchor="start" font-style="italic" xml:space="preserve"><tspan x="631" dy="0">Static programs do not adapt</tspan></text>
+<text x="631" y="165" font-size="13.5" fill="#4ade80" text-anchor="start" xml:space="preserve"><tspan x="631" dy="0">Led to: a pain feedback system</tspan><tspan x="631" dy="17">that adapts guidance</tspan></text>
+<rect x="900" y="84" width="255" height="149" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="916" y="114" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="916" dy="0">Mobility gets skipped</tspan></text>
+<line x1="916" y1="124" x2="1139" y2="124" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="916" y="134" font-size="12.5" fill="#94a3b8" text-anchor="start" font-style="italic" xml:space="preserve"><tspan x="916" dy="0">Feels optional and unstructured</tspan></text>
+<text x="916" y="165" font-size="13.5" fill="#4ade80" text-anchor="start" xml:space="preserve"><tspan x="916" dy="0">Led to: a stretching and flow</tspan><tspan x="916" dy="17">movement system</tspan></text>
+<text x="600" y="263" text-anchor="middle" font-size="13" fill="#94a3b8">Themes come from the project's own research summary of early conversations. No sample size is stated there, so none is claimed here.</text>
+</svg>

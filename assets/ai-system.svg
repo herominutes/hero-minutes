@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 415" width="1200" height="415" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">Herominutes AI system</title>
+<desc id="d">Two groups of seven specialists, and a tiered generation model with fast, medium and deep levels.</desc>
+<rect width="1200" height="415" rx="14" fill="#0f172a"/>
+<text x="600" y="40" text-anchor="middle" font-size="21" font-weight="700" fill="#f8fafc">The AI system: two specialist groups, three depths</text>
+<rect x="45" y="84" width="350" height="271" rx="12" fill="#111c33" stroke="#60a5fa" stroke-width="2"/>
+<text x="61" y="114" font-size="15.5" fill="#60a5fa" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="61" dy="0">Injury recovery x 7</tspan></text>
+<line x1="61" y1="124" x2="379" y2="124" stroke="#60a5fa" stroke-width="1" opacity="0.5"/>
+<text x="61" y="134" font-size="12.5" fill="#94a3b8" text-anchor="start" font-style="italic" xml:space="preserve"><tspan x="61" dy="0">Specialist roles</tspan></text>
+<text x="61" y="165" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">• Assessment and recovery path</tspan></text>
+<text x="61" y="191" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">• Rehabilitation protocol support</tspan></text>
+<text x="61" y="217" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">• Pain-informed exercise adaptation</tspan></text>
+<text x="61" y="243" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">• Return-to-performance planning</tspan></text>
+<text x="61" y="269" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">• Progress monitoring</tspan></text>
+<text x="61" y="295" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">• Adherence and consistency</tspan></text>
+<text x="61" y="321" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="61" dy="0">• Recovery analytics and insight</tspan></text>
+<rect x="425" y="84" width="350" height="271" rx="12" fill="#111c33" stroke="#4ade80" stroke-width="2"/>
+<text x="441" y="114" font-size="15.5" fill="#4ade80" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="441" dy="0">Stretching and flow x 7</tspan></text>
+<line x1="441" y1="124" x2="759" y2="124" stroke="#4ade80" stroke-width="1" opacity="0.5"/>
+<text x="441" y="134" font-size="12.5" fill="#94a3b8" text-anchor="start" font-style="italic" xml:space="preserve"><tspan x="441" dy="0">Specialist roles</tspan></text>
+<text x="441" y="165" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="441" dy="0">• Mobility flow design</tspan></text>
+<text x="441" y="191" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="441" dy="0">• Flexibility progression</tspan></text>
+<text x="441" y="217" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="441" dy="0">• Movement quality</tspan></text>
+<text x="441" y="243" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="441" dy="0">• Warm-up and cool-down</tspan></text>
+<text x="441" y="269" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="441" dy="0">• Body-region stretching</tspan></text>
+<text x="441" y="295" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="441" dy="0">• Recovery-supportive flows</tspan></text>
+<text x="441" y="321" font-size="13.5" fill="#e2e8f0" text-anchor="start" xml:space="preserve"><tspan x="441" dy="0">• Mobility consistency tracking</tspan></text>
+<rect x="805" y="84" width="350" height="271" rx="12" fill="#111c33" stroke="#c4b5fd" stroke-width="2"/>
+<text x="821" y="114" font-size="15.5" fill="#c4b5fd" text-anchor="start" font-weight="700" xml:space="preserve"><tspan x="821" dy="0">Tiered generation</tspan></text>
+<line x1="821" y1="124" x2="1139" y2="124" stroke="#c4b5fd" stroke-width="1" opacity="0.5"/>
+<text x="821" y="134" font-size="12.5" fill="#94a3b8" text-anchor="start" font-style="italic" xml:space="preserve"><tspan x="821" dy="0">Explored, depth matched to the task</tspan></text>
+<text x="821" y="165" font-size="13.5" fill="#c4b5fd" text-anchor="start" xml:space="preserve"><tspan x="821" dy="0">• Fast: quick daily check-ins and simple</tspan><tspan x="821" dy="17">  suggestions</tspan></text>
+<text x="821" y="208" font-size="13.5" fill="#c4b5fd" text-anchor="start" xml:space="preserve"><tspan x="821" dy="0">• Medium: exercise adjustments and pain-informed</tspan><tspan x="821" dy="17">  changes</tspan></text>
+<text x="821" y="251" font-size="13.5" fill="#c4b5fd" text-anchor="start" xml:space="preserve"><tspan x="821" dy="0">• Deep: full recovery-program generation and</tspan><tspan x="821" dy="17">  multi-factor planning</tspan></text>
+<text x="600" y="385" text-anchor="middle" font-size="13" fill="#94a3b8">Role lists are examples from the original MVP design. The tiered model is something the MVP explores, not a measured result.</text>
+</svg>
